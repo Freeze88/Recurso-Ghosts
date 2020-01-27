@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\Recurso\FreezeEngine\bin\Debug\netcoreapp3.1\FreezeEngine.exe
+C:\Users\andre\source\repos\Recurso\FreezeEngine\bin\Debug\netcoreapp3.1\FreezeEngine.deps.json
+C:\Users\andre\source\repos\Recurso\FreezeEngine\bin\Debug\netcoreapp3.1\FreezeEngine.runtimeconfig.json
+C:\Users\andre\source\repos\Recurso\FreezeEngine\bin\Debug\netcoreapp3.1\FreezeEngine.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Recurso\FreezeEngine\bin\Debug\netcoreapp3.1\FreezeEngine.dll
+C:\Users\andre\source\repos\Recurso\FreezeEngine\bin\Debug\netcoreapp3.1\FreezeEngine.pdb
+C:\Users\andre\source\repos\Recurso\FreezeEngine\obj\Debug\netcoreapp3.1\FreezeEngine.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Recurso\FreezeEngine\obj\Debug\netcoreapp3.1\FreezeEngine.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Recurso\FreezeEngine\obj\Debug\netcoreapp3.1\FreezeEngine.AssemblyInfo.cs
+C:\Users\andre\source\repos\Recurso\FreezeEngine\obj\Debug\netcoreapp3.1\FreezeEngine.dll
+C:\Users\andre\source\repos\Recurso\FreezeEngine\obj\Debug\netcoreapp3.1\FreezeEngine.pdb
